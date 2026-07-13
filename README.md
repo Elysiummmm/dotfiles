@@ -3,7 +3,9 @@
 my configuration files for my PC and laptop (coming soon) respectively.
 Icons aren't in the repo because I don't think I'm allowed to upload those lmao
 
-Expect missing or unclear features as these are mostly for personal use (usually right-clicking will trigger some alternative behaviour).
+Expect missing or unclear features (usually right-clicking will trigger some alternative behaviour) as these are made for my personal use, though feel free to use them too!
+
+also the qml probably kinda sucks because this was my first time working with it at all but whatever
 
 ## niri
 I only included the parts of the config I deemed relevant, you'll have to merge them yourself
